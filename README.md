@@ -1,1 +1,4 @@
-# Automating-a-Telegram-bot-for-Google-Workspace
+# Automating-a-Telegram-bot-for-Google-Workspace/Автоматизация Telegram-бота для Google Workspace
+Собран рабочий сценарий в Make: бот принимает сообщения, происходит проверка подписан ли пользователь на телеграмм канал, если подписан, то далее данные записываются в Google Sheets, 
+уведомления отправляются на почту, а полученные файлы и голосовые сохраняются на Google Drive. По результатам будет видно, что запись данных и загрузка файлов действительно произошла.
+Ссылка на Telegram-бота - https://t.me/zahargarbot
